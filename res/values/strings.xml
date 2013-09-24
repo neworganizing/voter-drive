@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VoterDrive</string>
+    <string name="hello">Hello World</string>
+    <string name="file_button_text">Scan Image From File</string>
+    <string name="camera_button_text">Scan Image from Camera</string>
+    <string name="logo">VroMatic Logo</string>
+    <string name="no_data">No Data</string>
+    <string name="ocr_source">OCR Source</string>
+    <string name="scan_title">Voter ID Scan Results</string>
+    <string name="OK">Next</string>
+    <string name="rotate_left">R. Left</string>
+    <string name="rotate_right">R. Right</string>
+</resources>
